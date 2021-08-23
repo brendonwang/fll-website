@@ -48,11 +48,11 @@ show_related:
   talk: true
 reading_time: true
 section_pager: false
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 plugins_js: []
