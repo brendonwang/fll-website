@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: |
   Techno
   Tigers
-hero_media: robot.jpeg 
+hero_media: Hero.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

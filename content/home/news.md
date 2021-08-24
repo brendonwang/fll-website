@@ -18,6 +18,6 @@ content:
   offset: 0
   page_type: post
 design:
-  view: 2
-  columns: "2"
+  view: 3
+  columns: "1"
 ---
