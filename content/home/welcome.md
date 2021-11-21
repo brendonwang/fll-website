@@ -18,6 +18,6 @@ design:
   css_class:
 ---
 
-<br>
+
 
 We are Techno Tigers and we are a FLL team.

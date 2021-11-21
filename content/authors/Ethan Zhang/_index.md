@@ -12,9 +12,14 @@ superuser: false
 # Role/position
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: I like engineering, and coding, generally in scratch. Also, I play chess, and build robots.
 
 interests:
+- Robotics
+- Engineering
+- Coding
+- Building
+- And everything else
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -25,6 +30,7 @@ interests:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
