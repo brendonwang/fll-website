@@ -15,6 +15,11 @@ superuser: false
 bio: 
 
 interests:
+- Lego
+- Acting
+- Swimming
+- Foxes
+- Piano
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

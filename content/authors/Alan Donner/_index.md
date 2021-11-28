@@ -12,10 +12,14 @@ superuser: false
 # Role/position
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-
+- Engineering
+- Lego
+- Maths
+- Violin
+- Reading
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
